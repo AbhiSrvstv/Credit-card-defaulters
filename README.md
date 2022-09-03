@@ -42,7 +42,7 @@ The final Random Boost model achieved an ROC_AUC score of 0.9116.
 ## 🚀 About Me
 
 
-- 👋 Hi, I’m Abhishek, a curious Data Dcientist
+- 👋 Hi, I’m Abhishek, a curious Data Scientist
 - 👀 I’m currently working on Machine Learning projects.
 - 🌱 I’m currently learning various machine learning models and deep learning techniques.
 - 💞️ I’m would love to collaborate on Machine Learning projects.
